@@ -3,6 +3,7 @@
   "minVersion": "0.8",
   "package": "com.example.silencemod.mixin",
   "compatibilityLevel": "JAVA_17",
+  "refmap": "silencemod.refmap.json",
   "mixins": [
     "ServerGamePacketListenerImplMixin"
   ],
