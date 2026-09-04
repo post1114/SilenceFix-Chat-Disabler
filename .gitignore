@@ -4,6 +4,7 @@ out/
 *.class
 *.jar
 *.war
+!gradle/wrapper/gradle-wrapper.jar
 
 # Gradle
 .gradle/
