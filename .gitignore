@@ -1,0 +1,35 @@
+# Compiled files
+build/
+out/
+*.class
+*.jar
+*.war
+
+# Gradle
+.gradle/
+local.properties
+gradle-app.setting
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+*.launch
+
+# Runtime
+run/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Forge
+src/main/resources/META-INF/neoforge.mods.toml
